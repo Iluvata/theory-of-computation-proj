@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.10.19)  6 JAN 2022 21:08
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.10.19)  6 JAN 2022 21:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1023,12 +1023,13 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plparsep=\skip98
 \pl@lab=\toks28
 )
-No file structural-information.aux.
+(./structural-information.aux)
 \openout1 = `structural-information.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 37.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 37.
+
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
@@ -1133,12 +1134,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 37.
 LaTeX Info: Redefining \pageref on input line 37.
 LaTeX Info: Redefining \nameref on input line 37.
+ (./structural-information.out) (./structural-information.out)
 \@outlinefile=\write3
 \openout3 = `structural-information.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 37.
@@ -1178,114 +1177,31 @@ LaTeX Font Info:    Trying to load font information for U+txsyc on input line 4
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-)
-
-Package natbib Warning: Citation `li_structural_2016' on page 1 undefined on in
-put line 49.
+) [1
 
 
-Package natbib Warning: Citation `li_structural_2016' on page 1 undefined on in
-put line 49.
-
-[1
-
-
-]
-
-Package natbib Warning: Citation `li_structural_2016' on page 2 undefined on in
-put line 53.
-
-
-Package natbib Warning: Citation `li_structural_2016' on page 2 undefined on in
-put line 53.
-
-[2]
-
-LaTeX Warning: Reference `fig:merging-operator' on page 3 undefined on input li
-ne 129.
-
+] [2]
 File: ./asset/merging-operator.png Graphic file (type bmp)
 <./asset/merging-operator.png>
+
 [3]
-
-LaTeX Warning: Reference `fig:combining-operator' on page 4 undefined on input 
-line 153.
-
 File: ./asset/combining-operator.png Graphic file (type bmp)
 <./asset/combining-operator.png>
-
-LaTeX Warning: Reference `fig:chromatin-spatial-structure' on page 4 undefined 
-on input line 182.
-
 File: ./asset/chromatin-spatial-structure.jpg Graphic file (type bmp)
 <./asset/chromatin-spatial-structure.jpg>
-
-Package natbib Warning: Citation `lieberman2009comprehensive' on page 4 undefin
-ed on input line 190.
-
-
-LaTeX Warning: Reference `fig:hic-experiments' on page 4 undefined on input lin
-e 190.
-
 File: ./asset/hic-experiments.jpg Graphic file (type bmp)
 <./asset/hic-experiments.jpg>
-[4]
-
-Package natbib Warning: Citation `lieberman2009comprehensive' on page 5 undefin
-ed on input line 208.
-
-
-LaTeX Warning: Reference `fig:hic-heatmap' on page 5 undefined on input line 20
-9.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+ [4]
 File: ./asset/hic-heatmap.png Graphic file (type bmp)
 <./asset/hic-heatmap.png>
+ [5]
+Underfull \vbox (badness 7468) has occurred while \output is active []
 
+ [6]
+Underfull \vbox (badness 2213) has occurred while \output is active []
 
-Package natbib Warning: Citation `dixon2012topological' on page 5 undefined on 
-input line 219.
-
-
-Package natbib Warning: Citation `filippova2014identification' on page 5 undefi
-ned on input line 219.
-
-[5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package natbib Warning: Citation `dhillon2001efficient' on page 6 undefined on 
-input line 229.
-
-
-Package natbib Warning: Citation `dhillon2003information' on page 6 undefined o
-n input line 229.
-
-
-Package natbib Warning: Citation `xu2003document' on page 6 undefined on input 
-line 229.
-
-
-Package natbib Warning: Citation `long2005co' on page 6 undefined on input line
- 229.
-
-[6]
-
-Package natbib Warning: Citation `guha2004propagation' on page 7 undefined on i
-nput line 235.
-
-
-Package natbib Warning: Citation `li2015discovering' on page 7 undefined on inp
-ut line 241.
-
-
-Package natbib Warning: Citation `li2015discovering' on page 7 undefined on inp
-ut line 241.
-
-[7] (./structural-information.bbl
+ [7]
+(./structural-information.bbl
 
 Package fontspec Warning: Font "STFangsong" does not contain requested Script
 (fontspec)                "CJK".
@@ -1314,42 +1230,23 @@ Package fontspec Info: Font family 'STFangsong(0)' created for font
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 [8])
-
-Package natbib Warning: There were undefined citations.
-
 - LAST -
-Extra skip:29.07628pt
-Left:26.44145pt/2.63483pt
-Right:0.0pt/0.0pt
-Output:27.22072pt
-[9] (./structural-information.aux
+Extra skip:23.97772pt
+Left:67.32436pt/2.1711pt
+Right:42.8829pt/2.63483pt
+Output:65.32436pt
+ [9] (./structural-information.aux)
+Package rerunfilecheck Info: File `structural-information.out' has not changed.
 
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `structural-information.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `structural-information.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  5E4F82EC227F6012A81A05B73DD9E24E;1734.
+(rerunfilecheck)             Checksum: 5E4F82EC227F6012A81A05B73DD9E24E;1734.
  ) 
 Here is how much of TeX's memory you used:
- 18725 strings out of 476919
- 368493 string characters out of 5821839
- 741811 words of memory out of 5000000
- 38349 multiletter control sequences out of 15000+600000
+ 18735 strings out of 476919
+ 368697 string characters out of 5821839
+ 745105 words of memory out of 5000000
+ 38353 multiletter control sequences out of 15000+600000
  425665 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,9n,104p,1171b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,9n,104p,1171b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on structural-information.pdf (9 pages).
